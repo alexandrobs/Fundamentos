@@ -12,5 +12,5 @@ console.log("Produto: " + nome
     + ", Preço: " + preco
     + ", Desconto: " + desconto);
 
-    console.log(1 + 1)
-    console.log("1" + 1)
+    console.log(1 + 1);
+    console.log("1" + 1);
